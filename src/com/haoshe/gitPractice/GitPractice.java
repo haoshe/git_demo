@@ -9,5 +9,6 @@ public class GitPractice {
         System.out.println("B did another thing");
         System.out.println("A did another thing");
         System.out.println("B did yet another thing");
+        System.out.println("create a branch");
     }
 }
