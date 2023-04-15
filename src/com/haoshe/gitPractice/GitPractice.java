@@ -7,5 +7,6 @@ public class GitPractice {
         System.out.println("A did something here");
         System.out.println("B did something here");
         System.out.println("B did another thing");
+        System.out.println("B did yet another thing");
     }
 }
